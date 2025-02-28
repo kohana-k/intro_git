@@ -4,3 +4,4 @@ git branch -M main
 ついか
 
 git rm
+git status
