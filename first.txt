@@ -2,3 +2,5 @@ Gitの練習をしていきますgit remote add origin https://github.com/kohana
 git branch -M main
 
 ついか
+
+git rm
